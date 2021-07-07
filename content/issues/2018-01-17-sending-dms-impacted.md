@@ -2,7 +2,7 @@
 section: issue
 title: Issues Sending DMs
 date: 2017-12-17 16:24:00
-resolved: false
+resolved: true
 resolvedWhen: 2017-12-17 16:58:00
 affected:
   - API
